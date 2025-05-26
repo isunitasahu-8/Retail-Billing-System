@@ -1,11 +1,6 @@
-# Retail-Billing-System
-Got it! Here's a cleaner, more professional version of the `README.md` file with minimal emojis, written in a natural, developer-friendly tone:
-
----
-
 # Retail Billing System
 
-A simple desktop-based billing application built using Python and Tkinter. This system is designed for small retail shops to help manage customer purchases, calculate totals and taxes, generate printable bills, and send them via email.
+This is a simple desktop-based billing application built using Python and Tkinter. This system is designed for small retail shops to help manage customer purchases, calculate totals and taxes, generate printable bills, and send them via email.
 
 ---
 
